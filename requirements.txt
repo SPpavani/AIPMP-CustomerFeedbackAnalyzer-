@@ -1,0 +1,24 @@
+# Core Python version (optional, but good practice)
+
+
+# Data handling
+pandas>=2.2.2
+numpy<2.0.0,>=1.26.0
+
+# Visualization
+matplotlib>=3.9.0
+seaborn>=0.13.2
+
+# AI + Embeddings
+openai>=1.58.1
+chromadb>=0.5.3
+
+# Utilities
+tqdm>=4.66.2
+requests>=2.31.0
+
+# Optional: PDF ingestion if you expand later
+fpdf2>=2.7.9
+
+# Testing
+pytest>=8.2.0
